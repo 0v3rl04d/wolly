@@ -1,6 +1,10 @@
 # wolly
 A simple and really working WOL module fo Go
 
+## Import module
+```
+go get github.com/0v3rl04d/wolly
+```
 ## Usage Example
 
 ```go
